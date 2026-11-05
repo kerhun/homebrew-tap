@@ -1,6 +1,6 @@
 cask "tentacl-crew" do
-  version "1.0-beta.1"
-  sha256 "7dd7b0569c678d638f5f538d7ff63e47a73ea49ddcf8234304651b67cec16db9"
+  version "1.0-beta.2"
+  sha256 "b6bd106cb2f7ff2b503da5bb1e432361af58286db10d5232ef5eb0a731ae75d0"
 
   url "https://github.com/kerhun/tentacl-crew/releases/download/v#{version}/TentaclCrew-#{version}.zip"
   name "Tentacl Crew"
